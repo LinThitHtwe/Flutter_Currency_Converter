@@ -1,6 +1,6 @@
 # currency_converter
 
-A new Flutter project.
+A mini project I worked on using Flutter during the early months of 2023 when I was just starting to learn the framework
 
 ## Getting Started
 
